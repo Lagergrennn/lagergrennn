@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+### This page is supposed to have important/fun/useful/interactive information... sadly you have to wait a arbitrary amount of time in order for me to upload it...
 <!--
 **Lagergrennn/lagergrennn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
